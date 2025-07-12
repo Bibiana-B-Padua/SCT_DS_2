@@ -54,5 +54,3 @@ python titanic_eda.py
 - [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 
 ---
-
-🧠 *This project is part of the SCT DataTrack Internship Task Series.*
