@@ -8,9 +8,14 @@
 SCT_DataTrack_Task02/
 ├── data/
 │   └── train.csv
+├── visuals/
+│   ├── Figure1.png
+│   ├── Figure2.png
+│   └── ...
 ├── titanic_eda.py
 ├── requirements.txt
 └── README.md
+
 ```
 
 ## 📌 Objectives
