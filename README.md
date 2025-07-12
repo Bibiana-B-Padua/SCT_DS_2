@@ -18,23 +18,28 @@ SCT_DataTrack_Task02/
 
 ```
 
-## 📌 Objectives
+---
 
-- Clean and preprocess the Titanic dataset
-- Analyze survival rates based on:
-  - Gender
-  - Passenger class
-  - Age
-  - Embarkation point
-  - Family size
-- Visualize patterns using bar plots, histograms, box plots, and heatmaps
+## 🎯 Task Objective
 
-## 📊 Key Insights
+- Clean and preprocess the dataset (`train.csv`)
+- Handle missing values and irrelevant columns
+- Create new features (e.g., `FamilySize`)
+- Visualize and interpret patterns in survival rates
 
-- Females had a significantly higher survival rate
-- 1st class passengers were more likely to survive
-- Infants and children had better survival chances
-- Embarked passengers from Cherbourg (C) had higher survival probability
+---
+
+## 📊 Key Insights from EDA
+
+| Feature       | Insight                                                 |
+|---------------|----------------------------------------------------------|
+| Gender        | Females had a higher chance of survival                  |
+| Class         | 1st class passengers were most likely to survive         |
+| Age           | Infants and children had better survival odds            |
+| Embarked Port | Passengers from Cherbourg (C) survived more often        |
+| Family Size   | Individuals with small families had better survival rates|
+
+---
 
 ## ▶️ How to Run
 
